@@ -1,0 +1,40 @@
+com/example/simpledagger/di/components/AppComponent.java
+ com.example.simpledagger.di.components.AppComponent
+com/example/simpledagger/di/modules/NetworkModule.java
+ com.example.simpledagger.di.modules.NetworkModule
+com/example/simpledagger/MainActivity.java
+ com.example.simpledagger.MainActivity
+ com.example.simpledagger.MainActivity$1
+ com.example.simpledagger.MainActivity$2
+ com.example.simpledagger.MainActivity$3
+com/example/simpledagger/di/modules/ViewModelModule.java
+ com.example.simpledagger.di.modules.ViewModelModule
+com/example/simpledagger/model/UserModel.java
+ com.example.simpledagger.model.UserModel
+com/example/simpledagger/databinding/ActivityMainBinding.java
+ com.example.simpledagger.databinding.ActivityMainBinding
+com/example/simpledagger/model/Geo.java
+ com.example.simpledagger.model.Geo
+com/example/simpledagger/model/Address.java
+ com.example.simpledagger.model.Address
+com/example/simpledagger/remote/UserService.java
+ com.example.simpledagger.remote.UserService
+com/example/simpledagger/repository/UserRepository.java
+ com.example.simpledagger.repository.UserRepository
+com/example/simpledagger/model/Company.java
+ com.example.simpledagger.model.Company
+com/example/simpledagger/DataBindingTriggerClass.java
+ com.example.simpledagger.DataBindingTriggerClass
+com/example/simpledagger/viewmodel/UserViewModel.java
+ com.example.simpledagger.viewmodel.UserViewModel
+ com.example.simpledagger.viewmodel.UserViewModel$1
+com/example/simpledagger/di/modules/ContextModule.java
+ com.example.simpledagger.di.modules.ContextModule
+com/example/simpledagger/BuildConfig.java
+ com.example.simpledagger.BuildConfig
+com/example/simpledagger/viewmodel/ViewModelFactory.java
+ com.example.simpledagger.viewmodel.ViewModelFactory
+com/example/simpledagger/di/ViewModelKey.java
+ com.example.simpledagger.di.ViewModelKey
+com/example/simpledagger/BaseApplication.java
+ com.example.simpledagger.BaseApplication
